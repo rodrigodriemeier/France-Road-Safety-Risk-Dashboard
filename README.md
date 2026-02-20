@@ -12,6 +12,8 @@ A full demonstration video of the dashboard is available in the project folder, 
 
 This project aims to provide a structured, data-driven perspective on public safety risk distribution across France.
 
-Rodrigo Driemeier dos Santos
-École Centrale de Lille – Generalist Engineering
-University of São Paulo (USP) – Mechatronics Engineering
+AUTHOR Rodrigo Driemeier dos Santos EESC – University of São Paulo (USP), São Carlos, Brazil — Mechatronics Engineering École Centrale de Lille, France — Generalist Engineering
+📧 rodrigodriemeier@usp.br
+🔗 https://www.linkedin.com/in/rodrigo-driemeier-dos-santos-a7698633b/
+
+Thanks for checking out the project :)
